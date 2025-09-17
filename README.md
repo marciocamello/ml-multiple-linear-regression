@@ -21,3 +21,7 @@ Este modelo utiliza Machine Learning para prever o nível de colesterol baseado 
 - Altura
 
 Desenvolvido como parte do curso de Machine Learning e Inteligência Artificial.
+
+## 🚀 Demo Online
+
+Experimente o modelo online: [https://huggingface.co/spaces/marciovale/ia-modelo-colesterol](https://huggingface.co/spaces/marciovale/ia-modelo-colesterol)
